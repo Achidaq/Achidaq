@@ -9,6 +9,7 @@ I'm a software developer focused on full-stack web applications, with interests 
 | [DeviceOps](https://github.com/Achidaq/deviceops-case-study) | Endpoint operations | Tenant-aware APIs, Python agents, signed updates, rollback, and database integration testing. |
 | [Relay](https://github.com/Achidaq/relay-case-study) | Browser-to-browser file transfer | WebRTC, shared signaling, connection consent, and network-discovery trade-offs. |
 | [Social Command Center](https://github.com/Achidaq/social-command-center-case-study-) | Publishing workflows | Immutable revisions, approval gates, provider adapters, and private media handling. |
+| [ELVO](docs/elvo-case-study.md) | Professional networking | Profiles, recruiting, communities, data-access boundaries, and verification limits. |
 | [DivineDesk CRM](https://github.com/Achidaq/divinedeskcrm-case-study) | ChurchCRM-based product work | Branding, interface presentation, packaging, and compatibility with the upstream foundation. |
 | [DKCyberFORSMEs](https://github.com/Achidaq/DKCyberFORSMEs-case-study) | Security operations prototype | A Flask workflow for assets, alerts, approved scans, and remediation decisions. |
 
