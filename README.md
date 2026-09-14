@@ -1,4 +1,4 @@
-# Hi, I'm Achidaq
+# Hi, I'm Sylvanus
 
 I'm exploring frontend, backend, full-stack development, and data/AI, and looking for opportunities to grow through practical software projects.
 
